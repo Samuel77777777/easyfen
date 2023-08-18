@@ -1,6 +1,6 @@
-import 'package:easyfenn/menu.dart';
-import 'package:easyfenn/navigation_controls.dart';
-import 'package:easyfenn/web_view_stack.dart';
+import 'package:Easyfen/menu.dart';
+import 'package:Easyfen/navigation_controls.dart';
+import 'package:Easyfen/web_view_stack.dart';
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
